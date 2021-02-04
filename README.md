@@ -31,6 +31,8 @@ Time spent: **6** hours spent in total
 ### App Walkthough GIF
 <img src='Flixter Video Fourth.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ### Notes
 The main challenges I experienced are the same challenges I experienced from the beginning of this course. I need time to settle and understand the interface of Android Studio so I can do better work.
 
