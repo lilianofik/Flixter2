@@ -29,8 +29,7 @@ Time spent: **6** hours spent in total
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-
-<img src="Flixter Video Fourth.gif" width=250><br>
+<img src='Flixter Video Fourth.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Notes
 The main challenges I experienced are the same challenges I experienced from the beginning of this course. I need time to settle and understand the interface of Android Studio so I can do better work.
